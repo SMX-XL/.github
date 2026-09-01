@@ -78,14 +78,7 @@ La nota de cada es RA es calcula a partir de la nota ponderada de les diferents 
 
 A la següent taula es mostra la correspondència entre els RA i les activitats d'ensenyament-aprenentatge (unitats):
 
-| RA | UD1 | UD2 | UD3 | UD4 | UD5 | UD6 | UD7 | UD8 | CPS | Total |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1 | 40% | 30% | | | | | | | 30% | **100%** |
-| 2 | | | 70%| | | | | | 30% | **100%** |
-| 3 | | | | 70%| | | | | 30% | **100%** |
-| 4 | | | | 20% | 20% | 15% | 15% | | 30% | **100%** |
-| 5 | | | | | | | | 70% | 30% | **100%** |
-| 6 | | | 70% | | | | | | 30% | **100%** |
+<!-- Aquí cal posar la taula de correspondència -->
 
 ### Avaluació de les activitats d'ensenyament-aprenentatge (unitats)
 
