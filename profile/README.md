@@ -47,20 +47,22 @@ Instal·lar, configurar i mantenir sistemes microinformàtics, aïllats o en xar
 El mòdul s'organitza en 8 unitats que corresponen a les activitats d'ensenyament-aprenentatge definides a la programació del mòdul, i que es corresponen amb els resultats d'aprenentatge (RA) establerts al currículum oficial:
 
 1. UD1: Introducció a les xarxes locals (RA1)
-2. UD2: Elements de la xarxa local (RA2)
-3. UD3: Instal·lació física de la xarxa (RA3 i RA6)
-4. UD4: Protocols TCP/IP (RA4)
-5. UD5: Commutadors de xarxa local (RA4)
-6. UD6: Encaminadors de xarxa (RA4)
-7. UD7: Xarxes sense fil (RA4)
-8. UD8: Resolució d'incidències i monitorització (RA5)
+2. UD2: Arquitectura de xarxes (RA1)
+3. UD3: Elements de la xarxa local (RA2)
+4. UD4: Riscos laborals i protecció ambiental (RA6)
+5. UD5: Cablejat de xarxes locals (RA3)
+6. UD6: Protocols TCP/IP (RA4)
+7. UD7: Commutadors de xarxa local (RA4)
+8. UD8: Encaminadors de xarxa (RA4)
+9. UD9: Xarxes sense fil (RA4)
+10. UD10: Resolució d'incidències i monitorització (RA5)
 
 ## Avaluació del mòdul
 
 La nota del mòdul es calcularà a partir de les qualificacions dels diferents resultats d’aprenentatge (RA) i de l’estada a l’empresa (EEM), segons la fórmula següent:
 
 $$
-QMP = 0,15 \cdot QRA_1 + 0,15 \cdot QRA_2 + 0,15 \cdot QRA_3 + 0,30 \cdot QRA_4 + 0,10 \cdot QRA_5 + 0,05 \cdot QRA_6 + 0,10 \cdot QEM
+QMP = 0,15 \cdot QRA_1 + 0,15 \cdot QRA_2 + 0,10 \cdot QRA_3 + 0,30 \cdot QRA_4 + 0,15 \cdot QRA_5 + 0,05 \cdot QRA_6 + 0,10 \cdot QEM
 $$
 
 Per aprovar el mòdul professional:
@@ -78,9 +80,9 @@ A la següent taula es mostra la correspondència entre els RA i les activitats 
 
 | RA | UD1 | UD2 | UD3 | UD4 | UD5 | UD6 | UD7 | UD8 | CPS | Total |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1 | 70% | | | | | | | | 30% | **100%** |
-| 2 | | 70% | | | | | | | 30% | **100%** |
-| 3 | | | 70% | | | | | | 30% | **100%** |
+| 1 | 40% | 30% | | | | | | | 30% | **100%** |
+| 2 | | | 70%| | | | | | 30% | **100%** |
+| 3 | | | | 70%| | | | | 30% | **100%** |
 | 4 | | | | 20% | 20% | 15% | 15% | | 30% | **100%** |
 | 5 | | | | | | | | 70% | 30% | **100%** |
 | 6 | | | 70% | | | | | | 30% | **100%** |
