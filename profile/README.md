@@ -74,7 +74,7 @@ Si se supera el mòdul i encara no s'ha finalitzat l'estada a l'empresa, el mòd
 
 ### Avaluació dels resultats d’aprenentatge (RA)
 
-La nota de cada es RA es calcula a partir de la nota ponderada de les diferents unitats o actictats d'ensenyament-aprenentatge sempre i quan la nota de cada unitat sigui igual o superior a 5. Aquesta qualificació conjunta suposa un 70% de la nota. Un 30% de la nota correspon a les competències personals i socials.
+La nota de cada es RA es calcula a partir de la nota ponderada de les diferents unitats o actictats d'ensenyament-aprenentatge sempre i quan la nota de cada unitat sigui igual o superior a 5. Aquesta qualificació conjunta suposa un 70% de la nota. Un 30% de la nota correspon a les CPO (Competències Personals per la Ocupació).
 
 A la següent taula es mostra la correspondència entre els RA i les activitats d'ensenyament-aprenentatge (unitats):
 
