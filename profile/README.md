@@ -50,7 +50,7 @@ El mòdul s'organitza en 8 unitats que corresponen a les activitats d'ensenyamen
 2. UD2: Arquitectura de xarxes (RA1)
 3. UD3: Elements de la xarxa local (RA2)
 4. UD4: Riscos laborals i protecció ambiental (RA6)
-5. UD5: Cablejat de xarxes locals (RA3)
+5. UD5: Cablejat de xarxes locals (RA2 i RA3)
 6. UD6: Protocols TCP/IP (RA4)
 7. UD7: Commutadors de xarxa local (RA4)
 8. UD8: Encaminadors de xarxa (RA4)
@@ -78,14 +78,7 @@ La nota de cada es RA es calcula a partir de la nota ponderada de les diferents 
 
 A la següent taula es mostra la correspondència entre els RA i les activitats d'ensenyament-aprenentatge (unitats):
 
-| RA | UD1 | UD2 | UD3 | UD4 | UD5 | UD6 | UD7 | UD8 | CPS | Total |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1 | 40% | 30% | | | | | | | 30% | **100%** |
-| 2 | | | 70%| | | | | | 30% | **100%** |
-| 3 | | | | 70%| | | | | 30% | **100%** |
-| 4 | | | | 20% | 20% | 15% | 15% | | 30% | **100%** |
-| 5 | | | | | | | | 70% | 30% | **100%** |
-| 6 | | | 70% | | | | | | 30% | **100%** |
+<!-- Aquí cal posar la taula de correspondència -->
 
 ### Avaluació de les activitats d'ensenyament-aprenentatge (unitats)
 
