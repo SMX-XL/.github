@@ -62,7 +62,7 @@ El mòdul s'organitza en 8 unitats que corresponen a les activitats d'ensenyamen
 La nota del mòdul es calcularà a partir de les qualificacions dels diferents resultats d’aprenentatge (RA) i de l’estada a l’empresa (EEM), segons la fórmula següent:
 
 $$
-QMP = 0,15 \cdot QRA_1 + 0,15 \cdot QRA_2 + 0,10 \cdot QRA_3 + 0,30 \cdot QRA_4 + 0,15 \cdot QRA_5 + 0,05 \cdot QRA_6 + 0,10 \cdot QEM
+QMP = 0,15 \cdot QRA_1 + 0,15 \cdot QRA_2 + 0,15 \cdot QRA_3 + 0,30 \cdot QRA_4 + 0,10 \cdot QRA_5 + 0,05 \cdot QRA_6 + 0,10 \cdot QEM
 $$
 
 Per aprovar el mòdul professional:
@@ -84,7 +84,7 @@ A la següent taula es mostra la correspondència entre els RA i les activitats 
 
 Cada unitat didàctica s'avaluarà mitjançant una combinació de proves teòriques i pràctiques, així com la realització de projectes i activitats avaluables.
 
-Per considerar superada la unitat cal que la nota de les proves (teòriques o pràctiques) sigui com a mínim un 4, sempre i quan la mitjana ponderada de la unitat sigui igual o superior a 5.
+Per considerar superada la unitat cal que la **nota de les proves o exàmens** (teòrics o pràctics) sigui com a mínim un 4, sempre i quan la mitjana ponderada de la unitat sigui igual o superior a 5.
 
 ### Segona convocatòria
 
@@ -92,7 +92,7 @@ Cas que no se superi algun RA a la primeraconvocatòria (avaluació contínua), 
 
 ## Ús de la IA
 
-La utilització d'eines d'intel·ligència artificial (IA) per la realització de treballs està regulat per la normativa de l'escola i del mòdul. L'ús d'aquestes eines ha de ser responsable i ètic i en el cas d'activitats no el seu ús no estigui permés, la seva utilització implicarà un suspens de l'activitat i una qualificació de 0 punts.
+La utilització d'eines d'intel·ligència artificial (IA) per la realització de treballs està regulat per la normativa de l'escola i del mòdul.  Les normes d'ús de la IA les pots consultar a la documentació del cicle.
 
 ## Altres informacions
 
