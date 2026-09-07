@@ -50,7 +50,7 @@ El mòdul s'organitza en 8 unitats que corresponen a les activitats d'ensenyamen
 2. UD2: Arquitectura de xarxes (RA1)
 3. UD3: Elements de la xarxa local (RA2)
 4. UD4: Riscos laborals i protecció ambiental (RA6)
-5. UD5: Cablejat de xarxes locals (RA3)
+5. UD5: Cablejat de xarxes locals (RA2 i RA3)
 6. UD6: Protocols TCP/IP (RA4)
 7. UD7: Commutadors de xarxa local (RA4)
 8. UD8: Encaminadors de xarxa (RA4)
@@ -73,6 +73,12 @@ Per aprovar el mòdul professional:
 Si se supera el mòdul i encara no s'ha finalitzat l'estada a l'empresa, el mòdul restarà pendent de qualificar (PQ) fins que es completi l'estada a l'empresa i es pugui assignar la nota corresponent.
 
 ### Avaluació dels resultats d’aprenentatge (RA)
+
+La nota de cada es RA es calcula a partir de la nota ponderada de les diferents unitats o actictats d'ensenyament-aprenentatge sempre i quan la nota de cada unitat sigui igual o superior a 5. Aquesta qualificació conjunta suposa un 70% de la nota. Un 30% de la nota correspon a les competències personals i socials.
+
+A la següent taula es mostra la correspondència entre els RA i les activitats d'ensenyament-aprenentatge (unitats):
+
+<!-- Aquí cal posar la taula de correspondència -->
 
 ### Avaluació de les activitats d'ensenyament-aprenentatge (unitats)
 
