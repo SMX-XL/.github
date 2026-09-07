@@ -79,6 +79,31 @@ La nota de cada es RA es calcula a partir de la nota ponderada de les diferents 
 A la següent taula es mostra la correspondència entre els RA i les activitats d'ensenyament-aprenentatge (unitats):
 
 <!-- Aquí cal posar la taula de correspondència -->
+```mermaid
+block-beta
+    columns 13
+
+    %% Capçalera
+    RA["RA"] UD1["UD1"] UD2["UD2"] UD3["UD3"] UD4["UD4"] UD5["UD5"] UD6["UD6"] UD7["UD7"] UD8["UD8"] UD9["UD9"] UD10["UD10"] CPO["CPO"] Total["Total"]
+
+    %% Fila 1
+    r1["1"] r1_ud1["40%"] r1_ud2["30%"] space space space space space space space space r1_cpo["30%"] r1_tot["100%"]
+
+    %% Fila 2
+    r2["2"] space space r2_ud3["35%"] space r2_ud5["35%"] space space space space space r2_cpo["30%"] r2_tot["100%"]
+
+    %% Fila 3
+    r3["3"] space space space space r3_ud5["70%"] space space space space space r3_cpo["30%"] r3_tot["100%"]
+
+    %% Fila 4
+    r4["4"] space space space space space r4_ud6["20%"] r4_ud7["15%"] r4_ud8["15%"] r4_ud9["20%"] space r4_cpo["30%"] r4_tot["100%"]
+
+    %% Fila 5
+    r5["5"] space space space space space space space space space r5_ud10["70%"] r5_cpo["30%"] r5_tot["100%"]
+
+    %% Fila 6
+    r6["6"] space space space r6_ud4["70%"] space space space space space space r6_cpo["30%"] r6_tot["100%"]
+```
 
 ### Avaluació de les activitats d'ensenyament-aprenentatge (unitats)
 
@@ -88,7 +113,7 @@ Per considerar superada la unitat cal que la **nota de les proves o exàmens** (
 
 ### Segona convocatòria
 
-Cas que no se superi algun RA a la primeraconvocatòria (avaluació contínua), a segona convocatòria caldrà avaluar només els RA suspesos, per fer-ho, caldrà fer una prova de les unitats didàctiques corresponents, **substiuint-se la nota obtinguda d'aquella unitat en primera convocatòria**.
+Cas que no se superi algun RA a la primera convocatòria (avaluació contínua), a segona convocatòria caldrà avaluar només les unitats que es van suspendre, **substiuint-se la nota obtinguda d'aquella unitat en primera convocatòria**.
 
 ## Ús de la IA
 
@@ -96,7 +121,7 @@ La utilització d'eines d'intel·ligència artificial (IA) per la realització d
 
 ## Altres informacions
 
-Al Moodle hi trobareu l'accés als materials del mòdul, així com les activitats d'avaluació i les tasque per lliurar-les.
+Al Moodle hi trobareu l'accés als materials del mòdul, així com les activitats d'avaluació i les tasqueS per lliurar-les.
 
 El material necessari per les pràctiques al taller: eines, cablejat, etc. estarà disponible al taller.
 
