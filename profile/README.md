@@ -52,10 +52,11 @@ El mòdul s'organitza en 8 unitats que corresponen a les activitats d'ensenyamen
 4. UD4: Riscos laborals i protecció ambiental (RA6)
 5. UD5: Cablejat de xarxes locals (RA2 i RA3)
 6. UD6: Protocols TCP/IP (RA4)
-7. UD7: Commutadors de xarxa local (RA4)
-8. UD8: Encaminadors de xarxa (RA4)
-9. UD9: Xarxes sense fil (RA4)
-10. UD10: Resolució d'incidències i monitorització (RA5)
+7. UD7: Capa Internet i adreçament IP (RA4)
+8. UD8: Commutadors de xarxa local (RA4)
+9. UD9: Encaminadors de xarxa (RA4)
+10. UD10: Xarxes sense fil (RA4)
+11. UD11: Resolució d'incidències i monitorització (RA5)
 
 ## Avaluació del mòdul
 
