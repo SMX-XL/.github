@@ -9,7 +9,7 @@ Repositori del mòdul 0225 Xarxes Locals del cicle formatiu de grau mitjà Siste
 - Nom: Xarxes Locals
 - Codi: 0225
 - Curs: 1r curs del cicle formatiu de grau mitjà Sistemes Microinformàtics i Xarxes
-- Durada: 132 hores (4 hores/setmana) + 66 hores estada empresa (10% de la nota final del mòdul)
+- Durada: 132 hores (4 hores/setmana)
 
 Professors:
 
@@ -52,17 +52,18 @@ El mòdul s'organitza en 8 unitats que corresponen a les activitats d'ensenyamen
 4. UD4: Riscos laborals i protecció ambiental (RA6)
 5. UD5: Cablejat de xarxes locals (RA2 i RA3)
 6. UD6: Protocols TCP/IP (RA4)
-7. UD7: Commutadors de xarxa local (RA4)
-8. UD8: Encaminadors de xarxa (RA4)
-9. UD9: Xarxes sense fil (RA4)
-10. UD10: Resolució d'incidències i monitorització (RA5)
+7. UD7: Capa Internet i adreçament IP (RA4)
+8. UD8: Commutadors de xarxa local (RA4)
+9. UD9: Encaminadors de xarxa (RA4)
+10. UD10: Xarxes sense fil (RA4)
+11. UD11: Resolució d'incidències i monitorització (RA5)
 
 ## Avaluació del mòdul
 
 La nota del mòdul es calcularà a partir de les qualificacions dels diferents resultats d’aprenentatge (RA) i de l’estada a l’empresa (EEM), segons la fórmula següent:
 
 $$
-QMP = 0,15 \cdot QRA_1 + 0,15 \cdot QRA_2 + 0,15 \cdot QRA_3 + 0,30 \cdot QRA_4 + 0,10 \cdot QRA_5 + 0,05 \cdot QRA_6 + 0,10 \cdot QEM
+QMP = 0,15 \cdot QRA_1 + 0,15 \cdot QRA_2 + 0,10 \cdot QRA_3 + 0,30 \cdot QRA_4 + 0,15 \cdot QRA_5 + 0,05 \cdot QRA_6 + 0,10 \cdot QEM
 $$
 
 Per aprovar el mòdul professional:
@@ -81,28 +82,28 @@ A la següent taula es mostra la correspondència entre els RA i les activitats 
 <!-- Aquí cal posar la taula de correspondència -->
 ```mermaid
 block-beta
-    columns 13
+    columns 14
 
     %% Capçalera
-    RA["RA"] UD1["UD1"] UD2["UD2"] UD3["UD3"] UD4["UD4"] UD5["UD5"] UD6["UD6"] UD7["UD7"] UD8["UD8"] UD9["UD9"] UD10["UD10"] CPO["CPO"] Total["Total"]
+    RA["RA"] UD1["UD1"] UD2["UD2"] UD3["UD3"] UD4["UD4"] UD5["UD5"] UD6["UD6"] UD7["UD7"] UD8["UD8"] UD9["UD9"] UD10["UD10"] UD11["UD11"] CPO["CPO"] Total["Total"]
 
     %% Fila 1
-    r1["1"] r1_ud1["40%"] r1_ud2["30%"] space space space space space space space space r1_cpo["30%"] r1_tot["100%"]
+    r1["1"] r1_ud1["40%"] r1_ud2["30%"] space space space space space space space space space r1_cpo["30%"] r1_tot["100%"]
 
     %% Fila 2
-    r2["2"] space space r2_ud3["35%"] space r2_ud5["35%"] space space space space space r2_cpo["30%"] r2_tot["100%"]
+    r2["2"] space space r2_ud3["35%"] space r2_ud5["35%"] space space space space space space r2_cpo["30%"] r2_tot["100%"]
 
     %% Fila 3
-    r3["3"] space space space space r3_ud5["70%"] space space space space space r3_cpo["30%"] r3_tot["100%"]
+    r3["3"] space space space space r3_ud5["70%"] space space space space space space r3_cpo["30%"] r3_tot["100%"]
 
     %% Fila 4
-    r4["4"] space space space space space r4_ud6["20%"] r4_ud7["15%"] r4_ud8["15%"] r4_ud9["20%"] space r4_cpo["30%"] r4_tot["100%"]
+    r4["4"] space space space space space r4_ud6["10%"] r4_ud7["15%"] r4_ud8["15%"] r4_ud9["15%"] r4_ud10["15%"] space r4_cpo["30%"] r4_tot["100%"]
 
     %% Fila 5
-    r5["5"] space space space space space space space space space r5_ud10["70%"] r5_cpo["30%"] r5_tot["100%"]
+    r5["5"] space space space space space space space space space space r5_ud11["70%"] r5_cpo["30%"] r5_tot["100%"]
 
     %% Fila 6
-    r6["6"] space space space r6_ud4["70%"] space space space space space space r6_cpo["30%"] r6_tot["100%"]
+    r6["6"] space space space r6_ud4["70%"] space space space space space space space r6_cpo["30%"] r6_tot["100%"]
 ```
 
 ### Avaluació de les activitats d'ensenyament-aprenentatge (unitats)
@@ -117,7 +118,9 @@ Cas que no se superi algun RA a la primera convocatòria (avaluació contínua),
 
 ## Ús de la IA
 
-La utilització d'eines d'intel·ligència artificial (IA) per la realització de treballs està regulat per la normativa de l'escola i del mòdul.  Les normes d'ús de la IA les pots consultar a la documentació del cicle.
+La utilització d'eines d'intel·ligència artificial (IA) per la realització de treballs està regulat per la normativa de l'escola i del mòdul.
+
+Les normes específiquesd'ús de la IA (semàfor de l'IA) les pots consultar a la documentació del cicle.
 
 ## Altres informacions
 
