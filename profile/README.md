@@ -44,7 +44,7 @@ Instal·lar, configurar i mantenir sistemes microinformàtics, aïllats o en xar
 
 ## Organització del mòdul
 
-El mòdul s'organitza en 8 unitats que corresponen a les activitats d'ensenyament-aprenentatge definides a la programació del mòdul, i que es corresponen amb els resultats d'aprenentatge (RA) establerts al currículum oficial:
+El mòdul s'organitza en 11 unitats que corresponen a les activitats d'ensenyament-aprenentatge definides a la programació del mòdul, i que es corresponen amb els resultats d'aprenentatge (RA) establerts al currículum oficial:
 
 1. UD1: Introducció a les xarxes locals (RA1)
 2. UD2: Arquitectura de xarxes (RA1)
