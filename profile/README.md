@@ -63,7 +63,7 @@ El mòdul s'organitza en 11 unitats que corresponen a les activitats d'ensenyame
 La nota del mòdul es calcularà a partir de les qualificacions dels diferents resultats d’aprenentatge (RA) i de l’estada a l’empresa (EEM), segons la fórmula següent:
 
 $$
-QMP = 0,15 \cdot QRA_1 + 0,15 \cdot QRA_2 + 0,10 \cdot QRA_3 + 0,30 \cdot QRA_4 + 0,15 \cdot QRA_5 + 0,05 \cdot QRA_6 + 0,10 \cdot QEM
+QMP = 0,15 \cdot QRA_1 + 0,10 \cdot QRA_2 + 0,10 \cdot QRA_3 + 0,40 \cdot QRA_4 + 0,10 \cdot QRA_5 + 0,05 \cdot QRA_6 + 0,10 \cdot QEM
 $$
 
 Per aprovar el mòdul professional:
